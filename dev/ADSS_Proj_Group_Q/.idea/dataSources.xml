@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="assignment2" uuid="d298f6c7-dba0-4ea3-9084-cf9427b43c19">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\idana\OneDrive\Desktop\ניתוצ\ADSS_Group_Q\dev\ADSS_Proj_Group_Q\src\DataLayer\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [2]" uuid="af4f44d9-f923-4a32-9e94-89ac233931ce">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\shavi\Desktop\ניתוץ\הכי מעודכן\dev\ADSS_Proj_Group_Q\src\DataLayer\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [3]" uuid="8a82f5f0-a619-4b8d-bce9-f87e6deabb86">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\idana\OneDrive\Desktop\ניתוצ2\dev\ADSS_Proj_Group_Q\src\DataLayer\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [4]" uuid="4a8d8cab-b98a-4cbf-b9e0-cc816fb2c3ae">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\idana\OneDrive\Desktop\ניתוצ2\dev\ADSS_Proj_Group_Q\src\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [5]" uuid="b572375d-def3-4ce3-8bcc-aa8c4ad1b524">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\shavi\Desktop\ניתוץ\הכי מעודכן\dev\ADSS_Proj_Group_Q\src\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [6]" uuid="562770df-272f-40ed-b087-3e930f1e5067">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\shavi\Desktop\ניתוץ\הכי מעודכן\dev\ADSS_Proj_Group_Q\out\production\ADSS_Proj_Group_Q\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [7]" uuid="99f87be2-cb5d-412d-ad42-c68411e5841f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\idana\OneDrive\Desktop\nit2\dev\ADSS_Proj_Group_Q\src\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [8]" uuid="6f534321-2030-48f7-a150-cf0912766bea">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\shavi\Desktop\ניתוץ\dev\ADSS_Proj_Group_Q\src\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="assignment2 [9]" uuid="bad28878-629b-43ac-ade3-eeb965dccab1">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\shavi\Desktop\‏‏תיקיה חדשה\dev\ADSS_Proj_Group_Q\src\assignment2.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
